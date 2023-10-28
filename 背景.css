@@ -1,0 +1,6 @@
+body {
+    background:url(https://api.oneneko.com/v1/bing_today);/*背景路径*/
+    background-size:100%;        /*填充*/
+    background-repeat:no-repeat; /*无重复*/
+    background-attachment: fixed;/*固定*/
+}
