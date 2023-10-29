@@ -4,7 +4,7 @@
 .dropbtn {
     background-color: #434343FF;
     color: white;
-    padding: 16px;
+    padding: 14px 16px;
     font-size: 16px;
     border: none;
     cursor: pointer;
@@ -24,7 +24,7 @@
 }/* 下拉菜单的链接 */
 .dropdown-content a {
     color: white;
-    padding: 12px 16px;
+    padding: 14px 16px;
     text-decoration: none;
     display: block;
 }
